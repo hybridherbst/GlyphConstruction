@@ -6,7 +6,7 @@
 # use .cap
 
 Abreveacute = A + breve.cap@center,top + acute.cap@center,top|1EAE
-Abrevedotaccent = A + breve.cap@center,top + dotaccent.cap@center,top|1EB6
+Abrevedotaccent = A + breve.cap@center,top + dotaccent.cap@center,A:bottom|1EB6
 Abrevegrave = A + breve.cap@center,top + grave.cap@center,top|1EB0
 Abrevehook = A + breve.cap@center,top + hook.cap@center,top|1EB2
 Abrevetilde = A + breve.cap@center,top + tilde.cap@center,top|1EB4
@@ -71,7 +71,7 @@ acircumflexacute = a + circumflex@center,top + acute@center,top|1EA5
 acircumflexdotaccent = a + circumflex@center,top + dotaccent@center,a:bottom|1EAD
 acircumflexgrave = a + circumflex@center,top + grave@center,top|1EA7
 acircumflexhook = a + circumflex@center,top + hook@center,top|1EA9
-acircumlfextilde = a + circumflex@center,top + tilde@center,top|1EAB
+acircumflextilde = a + circumflex@center,top + tilde@center,top|1EAB
 adotaccent = a + dotaccent@center,bottom|1EA1
 ahook = a + hook@center,top|1EA3
 ecircumflexacute = e + circumflex@center,top + acute@center,top|1EBF
@@ -88,7 +88,7 @@ ocircumflexacute = o + circumflex@center,top + acute@center,top|1ED1
 ocircumflexgrave = o + circumflex@center,top + grave@center,top|1ED3
 ocircumflexhook = o + circumflex@center,top + hook@center,top|1ED5
 ocircumflextilde = o + circumflex@center,top + tilde@center,top|1ED7
-ocircumlfexdotaccent = o + circumflex@center,top + dotaccent@center,o:bottom|1ED9
+ocircumflexdotaccent = o + circumflex@center,top + dotaccent@center,o:bottom|1ED9
 odotaccent = o + dotaccent@center,bottom|1ECD
 ohook = o + hook@center,top|1ECF
 

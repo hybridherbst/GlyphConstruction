@@ -5,7 +5,7 @@
 ## small caps
 
 Abreveacute.sc = A.sc + breve.sc@center,top + acute.sc@center,top
-Abrevedotaccent.sc = A.sc + breve.sc@center,top + dotaccent.sc@center,top
+Abrevedotaccent.sc = A.sc + breve.sc@center,top + dotaccent.sc@center,A.sc:bottom
 Abrevegrave.sc = A.sc + breve.sc@center,top + grave.sc@center,top
 Abrevehook.sc = A.sc + breve.sc@center,top + hook.sc@center,top
 Abrevetilde.sc = A.sc + breve.sc@center,top + tilde.sc@center,top
